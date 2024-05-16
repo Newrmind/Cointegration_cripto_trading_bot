@@ -1,0 +1,10 @@
+version
+/.idea/
+/venv/
+.env
+__pycache__/
+/app.log
+params.py
+Database/test_postgres.py
+Database/copy_database.py
+Data_request/app.log

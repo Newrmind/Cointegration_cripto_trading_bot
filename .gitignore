@@ -9,7 +9,6 @@ Database/copy_database.py
 Data_request/app.log
 
 .env
-params.py
 for_test.py
 excel_writer.py
 copy_positions_tables.py
